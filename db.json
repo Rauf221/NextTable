@@ -1,0 +1,225 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "dueDate": "15, Sep 2024",
+      "completedTask": 5,
+      "projectName": "User Authentication System",
+      "desc": "Develop a secure user authentication system for the application.",
+      "assignedDate": "01, Jul 2024",
+      "status": 25,
+      "priority": "Medium",
+      "totalTask": 20
+    },
+    {
+      "id": "2",
+      "dueDate": "10, Oct 2024",
+      "completedTask": 10,
+      "projectName": "UI/UX Redesign",
+      "desc": "Redesign the user interface and experience for the main dashboard.",
+      "assignedDate": "15, Jul 2024",
+      "status": 50,
+      "priority": "High",
+      "totalTask": 30
+    },
+    {
+      "id": "3",
+      "dueDate": "20, Sep 2024",
+      "completedTask": 15,
+      "projectName": "Real-Time Analytics Integration",
+      "desc": "Integrate real-time data feeds into the existing analytics system.",
+      "assignedDate": "22, Jun 2024",
+      "status": 60,
+      "priority": "High",
+      "totalTask": 25
+    },
+    {
+      "id": "4",
+      "dueDate": "05, Nov 2024",
+      "completedTask": 8,
+      "projectName": "Payment Gateway Implementation",
+      "desc": "Implement a new payment gateway for handling transactions.",
+      "assignedDate": "10, Aug 2024",
+      "status": 40,
+      "priority": "High",
+      "totalTask": 20
+    },
+    {
+      "id": "5",
+      "dueDate": "25, Nov 2024",
+      "completedTask": 12,
+      "projectName": "Mobile App Optimization",
+      "desc": "Optimize performance and responsiveness of the mobile application.",
+      "assignedDate": "20, Jul 2024",
+      "status": 45,
+      "priority": "Medium",
+      "totalTask": 28
+    },
+    {
+      "id": "6",
+      "dueDate": "30, Oct 2024",
+      "completedTask": 18,
+      "projectName": "API Documentation",
+      "desc": "Create detailed documentation for the new API endpoints.",
+      "assignedDate": "05, Aug 2024",
+      "status": 60,
+      "priority": "Low",
+      "totalTask": 22
+    },
+    {
+      "id": "7",
+      "dueDate": "15, Dec 2024",
+      "completedTask": 7,
+      "projectName": "Cloud Migration",
+      "desc": "Migrate the existing infrastructure to a cloud-based platform.",
+      "assignedDate": "01, Sep 2024",
+      "status": 30,
+      "priority": "High",
+      "totalTask": 25
+    },
+    {
+      "id": "8",
+      "dueDate": "10, Jan 2025",
+      "completedTask": 22,
+      "projectName": "Security Audit",
+      "desc": "Conduct a comprehensive security audit of the entire system.",
+      "assignedDate": "15, Sep 2024",
+      "status": 75,
+      "priority": "High",
+      "totalTask": 30
+    },
+    {
+      "id": "9",
+      "dueDate": "20, Dec 2024",
+      "completedTask": 14,
+      "projectName": "Customer Feedback System",
+      "desc": "Develop a system to collect and analyze customer feedback.",
+      "assignedDate": "01, Oct 2024",
+      "status": 55,
+      "priority": "Medium",
+      "totalTask": 25
+    },
+    {
+      "id": "10",
+      "dueDate": "05, Nov 2024",
+      "completedTask": 6,
+      "projectName": "Performance Tuning",
+      "desc": "Tune the performance of the backend services.",
+      "assignedDate": "15, Aug 2024",
+      "status": 35,
+      "priority": "Medium",
+      "totalTask": 20
+    },
+    {
+      "id": "11",
+      "dueDate": "15, Nov 2024",
+      "completedTask": 16,
+      "projectName": "Data Encryption",
+      "desc": "Implement encryption for sensitive data in the database.",
+      "assignedDate": "01, Sep 2024",
+      "status": 60,
+      "priority": "High",
+      "totalTask": 25
+    },
+    {
+      "id": "12",
+      "dueDate": "01, Dec 2024",
+      "completedTask": 11,
+      "projectName": "Bug Fixing Sprint",
+      "desc": "Address and resolve critical bugs reported by users.",
+      "assignedDate": "15, Aug 2024",
+      "status": 50,
+      "priority": "Medium",
+      "totalTask": 22
+    },
+    {
+      "id": "13",
+      "dueDate": "30, Nov 2024",
+      "completedTask": 9,
+      "projectName": "Marketing Automation",
+      "desc": "Develop and implement marketing automation workflows.",
+      "assignedDate": "01, Sep 2024",
+      "status": 40,
+      "priority": "Medium",
+      "totalTask": 20
+    },
+    {
+      "id": "14",
+      "dueDate": "20, Dec 2024",
+      "completedTask": 21,
+      "projectName": "Internationalization",
+      "desc": "Prepare the application for international markets with multi-language support.",
+      "assignedDate": "01, Oct 2024",
+      "status": 70,
+      "priority": "Low",
+      "totalTask": 30
+    },
+    {
+      "id": "15",
+      "dueDate": "10, Jan 2025",
+      "completedTask": 13,
+      "projectName": "DevOps Pipeline Setup",
+      "desc": "Establish a CI/CD pipeline for continuous integration and deployment.",
+      "assignedDate": "15, Sep 2024",
+      "status": 50,
+      "priority": "High",
+      "totalTask": 25
+    },
+    {
+      "id": "16",
+      "dueDate": "25, Jan 2025",
+      "completedTask": 8,
+      "projectName": "Reporting Dashboard",
+      "desc": "Create an interactive reporting dashboard for business analytics.",
+      "assignedDate": "01, Oct 2024",
+      "status": 35,
+      "priority": "Medium",
+      "totalTask": 22
+    },
+    {
+      "id": "17",
+      "dueDate": "15, Nov 2024",
+      "completedTask": 19,
+      "projectName": "API Rate Limiting",
+      "desc": "Implement rate limiting for API requests to prevent abuse.",
+      "assignedDate": "05, Sep 2024",
+      "status": 65,
+      "priority": "Medium",
+      "totalTask": 25
+    },
+    {
+      "id": "18",
+      "dueDate": "05, Dec 2024",
+      "completedTask": 12,
+      "projectName": "User Onboarding",
+      "desc": "Develop a user onboarding process to improve user experience.",
+      "assignedDate": "20, Aug 2024",
+      "status": 45,
+      "priority": "Low",
+      "totalTask": 20
+    },
+    {
+      "id": "19",
+      "dueDate": "20, Jan 2025",
+      "completedTask": 16,
+      "projectName": "Data Backup System",
+      "desc": "Implement a robust backup system for critical data.",
+      "assignedDate": "01, Sep 2024",
+      "status": 55,
+      "priority": "High",
+      "totalTask": 30
+    },
+    {
+      "id": "20",
+      "dueDate": "10, Feb 2025",
+      "completedTask": 23,
+      "projectName": "API Versioning",
+      "desc": "Introduce versioning for APIs to ensure backward compatibility.",
+      "assignedDate": "15, Oct 2024",
+      "status": 75,
+      "priority": "Medium",
+      "totalTask": 30
+    }
+  ]
+  
+}

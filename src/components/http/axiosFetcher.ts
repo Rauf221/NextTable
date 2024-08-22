@@ -119,11 +119,3 @@ export function useDeleteProject() {
         module: "devApi",
     });
 }
-
-
-export function useCreateProject() {
-    return useRequestMutation("DeleteData", {
-        method: "POST",
-        module: "devApi",
-    });
-}
